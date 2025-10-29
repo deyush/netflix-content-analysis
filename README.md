@@ -30,19 +30,21 @@ In this project, I explored Netflix’s content catalog to uncover trends in gen
 
 ## 📁 Folder Structure
 
+```
 Netflix_Content_Analysis/
-Netflix_Content_Analysis/README.md
-Netflix_Content_Analysis/data/
-Netflix_Content_Analysis/data/raw/
-Netflix_Content_Analysis/data/processed/
-Netflix_Content_Analysis/notebooks/
-Netflix_Content_Analysis/notebooks/01_data_cleaning.ipynb
-Netflix_Content_Analysis/powerbi/
-Netflix_Content_Analysis/powerbi/Netflix_Dashboard.pbix
-Netflix_Content_Analysis/powerbi/screenshots/
-Netflix_Content_Analysis/reports/
-Netflix_Content_Analysis/reports/Netflix_Insights.pdf
-Netflix_Content_Analysis/assets/
+│ ├── README.md
+├── data/
+│ ├── raw/
+│ └── processed/
+├── notebooks/
+│ ├── 01_data_cleaning.ipynb
+├── powerbi/
+│ ├── Netflix_Dashboard.pbix
+│ └── screenshots/
+├── reports/
+│ └── Netflix_Insights.pdf
+└── assets/
+```
 
 ---
 
